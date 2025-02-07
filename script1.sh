@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, Github webhook!"
+echo "Hello, world Github webhook!"
